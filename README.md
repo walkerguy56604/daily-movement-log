@@ -1,19 +1,13 @@
-# daily-movement-log
-/README.md
-/master-log-index.md
-/templates/daily-template.md
-/templates/weekly-template.md
-/templates/monthly-template.md
-/templates/yearly-template.md
-/templates/reference-day-template.md
-/daily/2025/2025-11-16.md
-/weekly/2025/week-46.md
-/monthly/2025/2025-11.md
-/yearly/2025.md
-/data/blood_pressure/bp-2025.csv
-/data/steps/steps-2025.csv
-/data/weight/weight-2025.csv
-/data/activity/strength-logs-2025.csv
-/.github/workflows/auto-summary.yml
-/.github/workflows/update-master-index.yml
-/.github/workflows/validate-data.yml
+# Daily Movement Log
+
+This repository is for tracking daily movement, exercise, and activity logs.
+
+---
+
+## Current Status
+- As of now, this repo contains only this README.
+- No logs have been added yet.
+
+---
+
+## Folder / File Structure (Future)
